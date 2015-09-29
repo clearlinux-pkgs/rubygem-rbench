@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rbench
 Version  : 0.2.3
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rbench-0.2.3.gem
 Source0  : https://rubygems.org/downloads/rbench-0.2.3.gem
 Summary  : No detailed summary available
